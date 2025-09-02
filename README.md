@@ -30,7 +30,8 @@ Copiar código
 pip install pygame
 📸 Captura
 El juego luce así en ejecución:
-<img width="788" height="614" alt="image" src="https://github.com/user-attachments/assets/6ac591e5-f21b-4240-b72d-e0401e7f8455" />
+![Demo del juego](pong_demo.png)
+
 
 
 👨‍💻 Autor

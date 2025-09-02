@@ -11,13 +11,13 @@ Este proyecto forma parte de mi portafolio personal.
    ```bash
    git clone https://github.com/GermanHernandez2902/Arcade_Pong.git
    cd Arcade_Pong
-Crea un entorno virtual (opcional pero recomendado):
+(Opcional) Crea un entorno virtual:
 
 bash
 Copiar código
 python -m venv venv
-source venv/bin/activate   # En Linux/Mac
-venv\Scripts\activate      # En Windows
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
 Instala las dependencias:
 
 bash

@@ -30,8 +30,7 @@ Copiar código
 pip install pygame
 📸 Captura
 El juego luce así en ejecución:
-![Demo del juego](pong_demo.png)
-
+![Demo del juego](./pong_demo.png)
 
 
 👨‍💻 Autor

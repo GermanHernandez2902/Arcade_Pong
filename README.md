@@ -28,11 +28,10 @@ Si no tienes el archivo requirements.txt, simplemente instala pygame con:
 bash
 Copiar código
 pip install pygame
-📸 Captura
-El juego luce así en ejecución:
-![Demo del juego](https://raw.githubusercontent.com/GermanHernandez2902/Arcade_Pong/main/pong_demo.png)
+📸 Captura  
+El juego luce así en ejecución:  
 
-
+![Demo del juego](pong_demo.png)
 
 👨‍💻 Autor
 German Hernandez

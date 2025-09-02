@@ -30,7 +30,8 @@ Copiar código
 pip install pygame
 📸 Captura
 El juego luce así en ejecución:
-![Demo del juego](./pong_demo.png)
+![Demo del juego](https://raw.githubusercontent.com/GermanHernandez2902/Arcade_Pong/main/pong_demo.png)
+
 
 
 👨‍💻 Autor

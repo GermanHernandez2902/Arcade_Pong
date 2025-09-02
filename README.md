@@ -7,42 +7,45 @@ Este proyecto forma parte de mi portafolio personal.
 
 ## 🚀 Instalación y ejecución
 
-1. Clonar el repositorio:
+1. Clona este repositorio:
    ```bash
    git clone https://github.com/GermanHernandez2902/Arcade_Pong.git
    cd Arcade_Pong
-Crear entorno virtual (opcional, recomendado):
+Crea un entorno virtual (opcional pero recomendado):
 
 bash
 Copiar código
 python -m venv venv
 source venv/bin/activate   # En Linux/Mac
 venv\Scripts\activate      # En Windows
-Instalar dependencias:
+Instala las dependencias:
 
 bash
 Copiar código
 pip install -r requirements.txt
-Ejecutar el juego:
+Ejecuta el juego:
 
 bash
 Copiar código
 python Arcade_Pong.py
 📸 Captura
-El juego luce así en ejecución:
-
-✅ Opción 1 (ruta relativa — debería funcionar si GitHub refresca bien):
+Así luce el juego en ejecución:
 
 
-✅ Opción 2 (enlace directo — siempre funciona):
 
-
+📂 Estructura del proyecto
+bash
+Copiar código
+Arcade_Pong/
+│── Arcade_Pong.py        # Código principal del juego
+│── requirements.txt      # Dependencias del proyecto
+│── pong_demo.png         # Captura del juego
+│── README.md             # Documentación
 🛠️ Tecnologías utilizadas
-Python 3
+Python 🐍
 
-Pygame
+Pygame 🎮
 
-✨ Autor
+👤 Autor
 German Hernandez
-📌 Proyecto de portafolio – Arcade Pong
-
+📌 Mi GitHub
